@@ -1,0 +1,5 @@
+Chrome_Path = executable_path = "C:\\Users\\Demoriel Purnell\\PycharmProjects\\facebookBDD\\Driver\\chromedriver.exe"
+FF_Path = "C:\\Users\\Demoriel Purnell\\PycharmProjects\\facebookBDD\\Driver\\geckodriver.exe"
+URL = "https://www.facebook.com/"
+Title = "Facebook"
+BBB_Allure_Cmd = "behave -f allure_behave.formatter:AllureFormatter -o reports/ features"
